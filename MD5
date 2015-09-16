@@ -1,0 +1,12 @@
+e7c458b311f81d38021444b3a0954a44 *DESCRIPTION
+626bee62d908fc25943785d38004db73 *NAMESPACE
+61e90f6e8f08020ee09bb097af818ce3 *R/JPEN.R
+6ac6f259da628c455477cba7d6fdfd06 *build/partial.rdb
+a9d85e1579c9eef587dc4f50733f15a2 *man/JPEN-package.Rd
+a2160a09469309c301acb1a151cc4223 *man/f.K.fold.Rd
+504fed6e6c62ebedd97befc39093e19c *man/jpen.Rd
+8eb3cbf6c55caf9afabe2bca62707fbd *man/jpen.inv.Rd
+02657d77959c16ec56b8e06131a7baa5 *man/jpen.inv.tune.Rd
+a8da3f82bafc2fb80e0e0c8addb2b8f3 *man/jpen.tune.Rd
+aca8a9858cc79cd7be5eec9a06ec6a3a *man/lamvec.Rd
+6dc6bd99e1ab07db581d6f3ac989d00e *man/tr.Rd

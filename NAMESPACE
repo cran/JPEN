@@ -1,0 +1,3 @@
+export(f.K.fold,jpen.inv,jpen.inv.tune,jpen,jpen.tune,lamvec,tr)
+import(mvtnorm)
+import(stats)
